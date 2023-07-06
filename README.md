@@ -43,6 +43,8 @@ The software design of MilkyWay Maker includes the following features:
 ![Software Design](https://github.com/maruwu8/MilkyWay-Maker/blob/main/assets/milkywaymaker2_stan_mara.jpg)
 ![Software Design](https://github.com/maruwu8/MilkyWay-Maker/blob/main/assets/milkywaymaker3_stan_mara.jpg)
 
+##Everything used is from IKEA.
+
 The code utilizes libraries for the keypad, LCD display, and servo motor. Pin connections for various components are defined within the code. The code also includes functions for pulse counting, distance measurement using the ultrasonic sensor, and generating beep sequences with the buzzer. 🖥️🧪🎶
 
 ## Results
@@ -58,11 +60,5 @@ Looking forward, the project holds immense potential for customization and expan
 In conclusion, the development of Milky Way Maker, a coffee maker machine using Arduino, has been a successful project. It demonstrates the potential of integrating electronics and programming into everyday appliances to automate processes and enhance functionality. The user-friendly interface, sensor integration, and customization options make it a versatile and enjoyable coffee-making experience. The project provides valuable learning opportunities and highlights the possibilities for future innovation in home automation. 🏠🚀😃
 
 
-## Journal Log
-
-- **15.05**: Researched for a project theme 📚🔍
-- **17.05**: Decided on Milky Way Maker as the project 🌌✨
-- **18.05**: Ordered the required components 📦📦
-- **21.05**: Components arrived, started brainstorming the project 💡💭
-
-![Demo Video](https://github.com/maruwu8/MilkyWay-Maker/blob/main/assets/MilkyWayMaker-DemoVideo.zip) 🎥🎬
+## 🎥🎬
+![Demo Video](https://github.com/maruwu8/MilkyWay-Maker/blob/main/assets/MilkyWayMaker-DemoVideo.zip) 
