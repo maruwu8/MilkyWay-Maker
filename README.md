@@ -40,6 +40,9 @@ The software design of MilkyWay Maker includes the following features:
 - **Display and Feedback**: The LCD display shows various information such as the input volume, flow rate, and total dispensed volume. It provides feedback messages like "Insert volume," "Volume reached," and "Remove cup" to guide the user through the process.
 - **Buzzer**: The buzzer generates beep sounds during certain events, such as when the volume is entered correctly or when the target volume is reached.
 
+![Software Design](https://github.com/maruwu8/MilkyWay-Maker/blob/main/assets/milkywaymaker2_stan_mara.jpg)
+![Software Design](https://github.com/maruwu8/MilkyWay-Maker/blob/main/assets/milkywaymaker3_stan_mara.jpg)
+
 The code utilizes libraries for the keypad, LCD display, and servo motor. Pin connections for various components are defined within the code. The code also includes functions for pulse counting, distance measurement using the ultrasonic sensor, and generating beep sequences with the buzzer. 🖥️🧪🎶
 
 ## Results
