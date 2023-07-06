@@ -43,7 +43,7 @@ The software design of MilkyWay Maker includes the following features:
 ![Software Design](https://github.com/maruwu8/MilkyWay-Maker/blob/main/assets/milkywaymaker2_stan_mara.jpg)
 ![Software Design](https://github.com/maruwu8/MilkyWay-Maker/blob/main/assets/milkywaymaker3_stan_mara.jpg)
 
-##Everything used is from IKEA.
+!Everything used is from IKEA.
 
 The code utilizes libraries for the keypad, LCD display, and servo motor. Pin connections for various components are defined within the code. The code also includes functions for pulse counting, distance measurement using the ultrasonic sensor, and generating beep sequences with the buzzer. 🖥️🧪🎶
 
@@ -61,4 +61,4 @@ In conclusion, the development of Milky Way Maker, a coffee maker machine using 
 
 
 ## 🎥🎬
-![Demo Video](https://github.com/maruwu8/MilkyWay-Maker/blob/main/assets/MilkyWayMaker-DemoVideo.zip) 
+[Demo Video](https://github.com/maruwu8/MilkyWay-Maker/blob/main/assets/MilkyWayMaker-DemoVideo.zip) 
