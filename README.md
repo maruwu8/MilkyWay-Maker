@@ -6,6 +6,9 @@
 
 MilkyWay Maker combines the functionality of Arduino, the convenience of automation, and the enjoyment of delicious milk-coffee beverages. With this system, users can input the desired quantity of milk using the keyboard, and the system will dispense the milk accordingly. The presence of a cup is detected by the distance sensor, which activates the powder dispensing mechanism to add cocoa powder. This ensures accurate and consistent drink preparation. 🖥️🤖🍶
 
+![Block Diagram](https://github.com/maruwu8/MilkyWay-Maker/blob/main/assets/block%20schema.png)
+
+
 The project not only caters to coffee lovers but also provides an opportunity for learning about electronics and programming. The code includes functionalities such as reading keypad inputs, controlling a servo motor, calculating milk flow rate, displaying information on an LCD screen, and playing beep sequences for notifications. ☕️💡📝
 
 ## Hardware Design
