@@ -28,6 +28,7 @@ The project not only caters to coffee lovers but also provides an opportunity fo
 - Water Pump Hose 6x8mm
 - Dupont Wires
 
+![Fritzing Diagram](https://github.com/maruwu8/MilkyWay-Maker/blob/main/assets/Fritzing.png)
 
 ## Software Design
 
