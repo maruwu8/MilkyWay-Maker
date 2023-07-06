@@ -65,4 +65,4 @@ In conclusion, the development of Milky Way Maker, a coffee maker machine using 
 - **18.05**: Ordered the required components 📦📦
 - **21.05**: Components arrived, started brainstorming the project 💡💭
 
-![Demo Video](https://example.com/milkywaymaker-demovideo.zip) 🎥🎬
+![Demo Video](https://github.com/maruwu8/MilkyWay-Maker/blob/main/assets/MilkyWayMaker-DemoVideo.zip) 🎥🎬
